@@ -32,7 +32,7 @@ namespace WebElReyCan.Validations
                 else
                 {
                     return false;
-                };
+                }
             }
         }
     }
